@@ -1,0 +1,15 @@
+{
+    "homepage": "https://github.com/terraform-docs",
+    "description": "Generate documentation from Terraform modules in various output formats",
+    "license": "Apache-2.0",
+    "version": "0.10.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/terraform-docs/terraform-docs/releases/download/v0.10.1/terraform-docs-v0.10.1-windows-amd64.exe",
+            "hash": "ec07ddd6cab4a8f595a91a025345028197dfba2bce40eebdf8d63e8d4e0ac4de"
+        }
+    },
+    "bin": [
+        "terraform-docs.exe"
+    ]
+}
