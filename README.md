@@ -10,3 +10,7 @@ Managed with [goreleaser](https://goreleaser.com/).
 scoop bucket add terraform-docs https://github.com/terraform-docs/scoop-bucket
 scoop install terraform-docs
 ```
+
+## License
+
+Apache version 2.0 License - Copyright (c) 2021 The terraform-docs Authors.
