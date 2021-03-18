@@ -1,4 +1,4 @@
-# scoop-bucket
+# Scoop Bucket
 
 [terraform-docs](https://github.com/terraform-docs/terraform-docs/) releases for the [Scoop package manager](https://scoop.sh/).
 
