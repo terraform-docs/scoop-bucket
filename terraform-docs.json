@@ -1,12 +1,12 @@
 {
-    "version": "0.12.0",
+    "version": "0.12.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/terraform-docs/terraform-docs/releases/download/v0.12.0/terraform-docs-v0.12.0-windows-amd64.zip",
+            "url": "https://github.com/terraform-docs/terraform-docs/releases/download/v0.12.1/terraform-docs-v0.12.1-windows-amd64.zip",
             "bin": [
                 "terraform-docs.exe"
             ],
-            "hash": "247f382af8818393d65feed8f5aa84c0018d0b222f74051597b9848775056fa1"
+            "hash": "28c0147a16e4e8eecac381e597e769d90bddf879bbb7078c027c82a072800e34"
         }
     },
     "homepage": "https://github.com/terraform-docs/",
